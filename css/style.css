@@ -6,3 +6,14 @@
     height: 50px;
     display: none;
 }
+.our{
+    font-size: 100px;
+}
+@media screen and (max-width: 600px) {
+    .logo{
+        display: none;
+    }
+    .our{
+        font-size: 50px
+    }
+}
